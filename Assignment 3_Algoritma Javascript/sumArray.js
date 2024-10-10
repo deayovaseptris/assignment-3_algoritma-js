@@ -1,3 +1,5 @@
+// Nama: Dea Yova Septri Saragih
+
 function sumArray(arr, int) {
   let result = [];
 

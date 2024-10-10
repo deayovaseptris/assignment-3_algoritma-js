@@ -1,3 +1,5 @@
+// Nama: Dea Yova Septri Saragih
+
 function threeStepsAB(text) {
   for (let i = 0; i < text.length; i++) {
     if (text[i] === "a" && text[i + 4] === "b") {

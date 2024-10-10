@@ -1,3 +1,5 @@
+// Nama: Dea Yova Septri Saragih
+
 function arrSum(arr) {
   let maxSum = arr[0];
   let currentSum = arr[0];

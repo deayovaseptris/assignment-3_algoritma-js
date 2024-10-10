@@ -1,3 +1,5 @@
+// Nama: Dea Yova Septri Saragih
+
 function isArithmeticProgression(numbers) {
   if (numbers.length < 2) {
     return true;
